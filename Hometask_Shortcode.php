@@ -5,7 +5,6 @@
  * Description: Add googlemaps to content
  * Version: 1.0.0
  * Author: BabychRoman
- * Author 
  * License: GPL2
  */
 
